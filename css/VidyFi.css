@@ -486,6 +486,7 @@ footer {
     .sub-input{
         margin-right: 0px;
         margin-bottom: 15px;
+	width:100%;   
     }
     .sub-button {
         width: 100%;
