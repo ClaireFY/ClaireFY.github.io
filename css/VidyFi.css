@@ -486,7 +486,8 @@ footer {
     .sub-input{
         margin-right: 0px;
         margin-bottom: 15px;
-	width:100%;   
+	width:100%;  
+    	-webkit-appearance: none;
     }
     .sub-button {
         width: 100%;
@@ -497,6 +498,7 @@ footer {
         -ms-flex: 0 auto;
         flex: 0 auto;
         background-color: #FF3DAC;
+        -webkit-appearance: none;
     }
     .footer-container {
         -ms-grid-columns: 1.5fr;
